@@ -1,0 +1,403 @@
+    1  Is
+    2  Is /data
+    3  git config --global user.name "sinethemba Ndaku"
+    4  git config --global user.email zimbindaku@gmail.com
+    5  code
+    6  ls
+    7  ls -a
+    8  cd 
+    9  cd /home
+   10  cd ../tmp
+   11  cd desktop
+   12  touch question_1.md
+   13  mkdir quetion_1.md
+   14  cd begininnig bash
+   15  q
+   16  mkdir question_1.md
+   17  pwd
+   18  touch question_1.md
+   19  ls
+   20  ls -a
+   21  cd question_1.md 
+   22  mkdir question_1.md 
+   23  ls
+   24  ## Question 
+   25  #
+   26  Question /n
+   27  \n
+   28  # Question \
+   29  \
+   30  ls
+   31  ls -a
+   32  # Question \
+   33  mkdir question_2.md
+   34  cd question_2.md/
+   35  echo '# Question' \ 
+   36  echo '# Question" \ 'What is the ls comand used for?' \ '# Answer' \ 'It is used for viewing or to see all the files and directiories that are in the home directory' \ 
+   37  question_2.md
+   38  touch question_2.md
+   39  touch question_3.md
+   40  touch question_4.md 
+   41  touch question_5.md
+   42  touch question_6.md
+   43  touch question_7.md
+   44  touch question_8.md
+   45  touch question_9.md
+   46  touch question_10.md
+   47  touch question_11.md
+   48  touch question_12
+   49  touch question_13.md
+   50  ls
+   51  code
+   52  git config --global user.name "Sinethemba Ndaku"
+   53  git config --global user.email zimbinindaku@gmail.com
+   54  git config --global core.editor "code --wait"
+   55  git config --global -e
+   56  git config --global core.autocrlf true
+   57  mkdir Moon
+   58  cd Moon
+   59  git init
+   60  ls
+   61  ls -a
+   62  open .git
+   63  ls
+   64  git --version
+   65  mkdir git-basic-excercises
+   66  cd git-basic-excercises/
+   67  ls -a
+   68  git init
+   69  ls -a
+   70  git status
+   71  touch README.md
+   72  ls -a
+   73  git status
+   74  git log
+   75  git add README.md
+   76  git status
+   77  git commit -m "This is my first commit"
+   78  git log
+   79  q
+   80  exit
+   81  nano README.md
+   82  cat README.md
+   83  git status
+   84  git commit -m "this is my second commit"
+   85  ls -a
+   86  pwd
+   87  cd Basic-git-excercises
+   88  git q
+   89  exit
+   90  mkdir git-basic-excercises
+   91  cd git-basic-excercises/
+   92  ls
+   93  pwd
+   94  nano README.md 
+   95  cat README.md 
+   96  git status
+   97  git add
+   98  git commit -m "This is my second commit"
+   99  git add README.md 
+  100  git log
+  101  git status
+  102  cat README.md 
+  103  git status
+  104  git commit -m "Second commit"
+  105  git log
+  106  nano README.md 
+  107  cat README.md 
+  108  git status
+  109  git add README.md 
+  110  git commit -m "third commit"
+  111  git log
+  112  git q
+  113  q
+  114  exit
+  115  cd git-basic-excercises
+  116  ls -a
+  117  open .git
+  118  exit
+  119  mkdir Beginning-bash
+  120  ls
+  121  cd Beginning-bash/
+  122  ls
+  123  touch question_1.js
+  124  git add question_1.js 
+  125  echo Hello > question_1.js.txt
+  126  git status
+  127  git log
+  128  git add
+  129  touch question_1.md
+  130  pwd
+  131  ls
+  132  add question_1.js question_1.md
+  133  git add question_1.md question_1.js
+  134  touch question_1
+  135  git add question_1
+  136  ls
+  137  git rm beginning-bash
+  138  clear
+  139  cd beginning-bash
+  140  cd /
+  141  cd beginning-bash
+  142  pwd
+  143  ls
+  144  git chechout begining-bash
+  145  exit
+  146  mkdir Beginning-bash
+  147  cd Beginning-bash/
+  148  git init
+  149  cd beginning-bash
+  150  cd Beginning-bash
+  151  git checkout master
+  152  touch question
+  153  ls
+  154  git rm question_1
+  155  git init
+  156  git init question_1
+  157  clear
+  158  git status
+  159  git add question_1.md
+  160  git status
+  161  echo # Question > question_1.md 
+  162  git status
+  163  git remove question_1.md
+  164  git rm question_1.md 
+  165  -f
+  166  git -f question_1.md
+  167  ls
+  168  git rm question_1.md 
+  169  git -f
+  170  git rm -f question_1.md 
+  171  ls
+  172  git rm question
+  173  pwd
+  174  cd Beginning-bash
+  175  ls
+  176  add question question_1 question_.js question_js.text
+  177  git add question question_1 question_.js question_1.js.txt
+  178  git status
+  179  git add question question_1 question_1.js question_1.js.txt
+  180  git status
+  181  git rm question question_1 question_1.js question_1.js.txt
+  182  git rm -f question question_1.js question_1.js.txt question_1 
+  183  ls
+  184  git status
+  185  touch question_1.md
+  186  git init question_1.md
+  187  git status
+  188  git add question_1.md 
+  189  git log
+  190  git status 
+  191  clear
+  192  nano question_1.md 
+  193  cat question_1.md 
+  194  git status
+  195  git add question_1.md 
+  196  git commit -m "Initial commit"
+  197  git status
+  198  git log
+  199  touch question_2.md
+  200  git init question_2.md
+  201  ls
+  202  git status
+  203  git add question_2.md 
+  204  git status
+  205  nano question_2.md
+  206  cat question_2.md
+  207  git log
+  208  pwd
+  209  mkdir coding-challenges
+  210  cd coding-challenges/
+  211  ls -a
+  212  git status
+  213  git init
+  214  git checkout main
+  215  git checkout master
+  216  git pull
+  217  git checkout -b task1
+  218  touch task1.js
+  219  ls -a
+  220  git status
+  221  git log
+  222  git add task1.js
+  223  git status
+  224  nano task1.js 
+  225  cat task1.js 
+  226  git status
+  227  giy add task1.js 
+  228  git add task1.js 
+  229  git commit -m "Task1 multiples function done"
+  230  git log
+  231  q
+  232  git checkout a3d48aec3b8a06b16cfb12e4d1e249d1d68fa947
+  233  cat task1.js 
+  234  git checkout master
+  235  git checkout main
+  236  git checkout 
+  237  git checkout coding-challenges
+  238  git checkout task1
+  239  cat task1.js 
+  240  pwd
+  241  cd coding-challenges
+  242  git branches
+  243  git branch
+  244  git checkout -b task2
+  245  touch task2.js
+  246  git status
+  247  git add task2.js 
+  248  git status 
+  249  nano task2.js
+  250  cat task.js
+  251  cat task2.js
+  252  git status
+  253  git add task2.js
+  254  git status
+  255  git commit -m "Function hasThree has been created"
+  256  git log
+  257  q
+  258  git checkout task1
+  259  clear
+  260  git branch
+  261  pwd
+  262  ls -a
+  263  pwd
+  264  cd git-basic excercises
+  265  cd git-basic-excercises/
+  266  ls -a
+  267  git log
+  268  q
+  269  git checkout 87cfcab69899b2c2bbc87b2062ad7bcace5c32f1
+  270  cat README.md 
+  271  git checkout main
+  272  git checkout
+  273  cat README.md 
+  274  git checkour master
+  275  git checkout master
+  276  cat README.md 
+  277  clear
+  278  git branch
+  279  git branch milkshake-flavours
+  280  git branch
+  281  git checkout milkshake-flavours 
+  282  git branch
+  283  nano milkshake-flavours
+  284  git status
+  285  git add milkshake-flavours 
+  286  git commit -m "initial flavours"
+  287  git log
+  288  git log
+  289  git checkout master
+  290  git branch
+  291  ls
+  292  ls -a
+  293  git branch history
+  294  git checkout history
+  295  git log
+  296  git branch
+  297  history > history.txt
+  298  git commit -m "added history"
+  299  git add history
+  300  git add history.txt 
+  301  git commit -m "history added"
+  302  git log
+  303  clear
+  304  pwd
+  305  git log
+  306  git branch
+  307  git checkout master
+  308  pwd
+  309  cd code-challenges
+  310  cd coding-challenges
+  311  ls -a
+  312  git status
+  313  git branch
+  314  nano task1.js 
+  315  cat task1.js 
+  316  git clone https://github.com/Umuzi-org/Sinethemba-Ndaku-219-level-1-programming-katas-javascript.git
+  317  cd task1.js 
+  318  cd task1
+  319  git status
+  320  git add
+  321  git add Sinethemba-Ndaku-219-level-1-programming-katas-javascript/
+  322  git status
+  323  git restore --unstage Sinethemba-Ndaku-219-level-1-programming-katas-javascript
+  324  git status
+  325  git restore --staged Sinethemba-Ndaku-219-level-1-programming-katas-javascript
+  326  git status
+  327  git branch task1
+  328  git checkout task1
+  329  git status
+  330  ls
+  331  git log
+  332  git push
+  333  git push Sinethemba-Ndaku-219-level-1-programming-katas-javascript
+  334  ls
+  335  ls -a
+  336  touch README.md
+  337  git status
+  338  git log
+  339  git add .
+  340  git status
+  341  git commit -m "initial commit"
+  342  git log
+  343  nano README.md 
+  344  cat README.md 
+  345  git add .
+  346  git commit -m "second commit"
+  347  nano README.md 
+  348  cat README.md 
+  349  git add .
+  350  git commit -m "third commit"
+  351  git log
+  352  git log
+  353  git checkout -b milkshake-flavours
+  354  git branch
+  355  nano milkshakes.md
+  356  cat milkshakes.md 
+  357  git add .
+  358  git commit -m "added initial flavours"
+  359  git log
+  360  git checkout -b history
+  361  git log
+  362  history > history.txt
+  363  git add history.txt 
+  364  git coomit -m "added history"
+  365  git log
+  366  git log
+  367  git checkout milkshake 
+  368  git checkout milkshake-flavours
+  369  git log
+  370  git checkout history
+  371  git log
+  372  nano README.md 
+  373  ls
+  374  git rm milkshakes.md 
+  375  git log
+  376  git add .
+  377  git commit -m "random readme changes"
+  378  ls 
+  379  git log
+  380  git checkout master
+  381  git branch -d history
+  382  git branch -D history
+  383  git checkout -b history
+  384  ls
+  385  history > history.txt
+  386  nano README.md 
+  387  git add .
+  388  git checkout master
+  389  git branch -D history
+  390  git checkout -b history
+  391  ls
+  392  git checkout master
+  393  ls
+  394  git reset
+  395  git restore --staged README.md 
+  396  git restore –staged README.md 
+  397  git restore –README.md 
+  398  rm history.txt 
+  399  git log
+  400  git checkout -b history
+  401  git branch -D history
+  402  git checkout -b history
+  403  history > histroy.txt
